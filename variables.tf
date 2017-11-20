@@ -2,7 +2,7 @@
 # Module Inputs
 # -------------
 variable "key_pair_name" {
-  description = "The name for the key pair"
+  description = "The name of the key pair"
   default     = ""
 }
 

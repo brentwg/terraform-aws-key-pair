@@ -8,7 +8,7 @@ You must first create the SSH key pair (using something like `ssh-keygen`) on yo
 
 ## Variables  
 ```
-key_pair_name:   The name for the key pair
+key_pair_name:   The name of the key pair
 public_key_path: Path to a specified SSH public key file
 ```
 
